@@ -6,5 +6,5 @@
 
 ## Links and Resources
 
-    (https://github.com/bashamtg/snakes-cafe)
+[Code](snakes_cafe.py)
 
