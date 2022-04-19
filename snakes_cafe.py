@@ -9,8 +9,8 @@ welcome = \
 
 # Menu Categories
 appetizers = 'Appetizers \n----------' '\nWings' '\nCookies' '\nSpring Rolls'
-entrees = 'Entrees \n-------' '\nSalmon' '\nSteak'
-desserts = 'Desserts \n-------' '\nIce Cream' '\nCake' '\nMeat Tornado' '\nA Literal Garden' '\nPie'
+entrees = 'Entrees \n-------' '\nSalmon' '\nSteak' '\nMeat Tornado' '\nA Literal Garden'
+desserts = 'Desserts \n-------' '\nIce Cream' '\nCake' '\nPie'
 drinks = 'Drinks \n-------' '\nCoffee' '\nTea' '\nunicorn Tears'
 menu = [appetizers, entrees, desserts, drinks]
 
